@@ -1,0 +1,10 @@
+D:\GitHub\gray_prog1_proj\Gray_MySelectCaseProject\Gray_MySelectCaseProject\bin\Debug\Gray_MySelectCaseProject.exe.config
+D:\GitHub\gray_prog1_proj\Gray_MySelectCaseProject\Gray_MySelectCaseProject\bin\Debug\Gray_MySelectCaseProject.exe
+D:\GitHub\gray_prog1_proj\Gray_MySelectCaseProject\Gray_MySelectCaseProject\bin\Debug\Gray_MySelectCaseProject.pdb
+D:\GitHub\gray_prog1_proj\Gray_MySelectCaseProject\Gray_MySelectCaseProject\bin\Debug\Gray_MySelectCaseProject.xml
+D:\GitHub\gray_prog1_proj\Gray_MySelectCaseProject\Gray_MySelectCaseProject\obj\Debug\Gray_MySelectCaseProject.Form1.resources
+D:\GitHub\gray_prog1_proj\Gray_MySelectCaseProject\Gray_MySelectCaseProject\obj\Debug\Gray_MySelectCaseProject.Resources.resources
+D:\GitHub\gray_prog1_proj\Gray_MySelectCaseProject\Gray_MySelectCaseProject\obj\Debug\Gray_MySelectCaseProject.vbproj.GenerateResource.Cache
+D:\GitHub\gray_prog1_proj\Gray_MySelectCaseProject\Gray_MySelectCaseProject\obj\Debug\Gray_MySelectCaseProject.exe
+D:\GitHub\gray_prog1_proj\Gray_MySelectCaseProject\Gray_MySelectCaseProject\obj\Debug\Gray_MySelectCaseProject.xml
+D:\GitHub\gray_prog1_proj\Gray_MySelectCaseProject\Gray_MySelectCaseProject\obj\Debug\Gray_MySelectCaseProject.pdb
