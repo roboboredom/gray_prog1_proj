@@ -1,0 +1,10 @@
+D:\GitHub\gray_prog1_proj\Gray_TestGrade2\Gray_TestGrade2\bin\Release\Gray_TestGrade2.exe.config
+D:\GitHub\gray_prog1_proj\Gray_TestGrade2\Gray_TestGrade2\bin\Release\Gray_TestGrade2.exe
+D:\GitHub\gray_prog1_proj\Gray_TestGrade2\Gray_TestGrade2\bin\Release\Gray_TestGrade2.pdb
+D:\GitHub\gray_prog1_proj\Gray_TestGrade2\Gray_TestGrade2\bin\Release\Gray_TestGrade2.xml
+D:\GitHub\gray_prog1_proj\Gray_TestGrade2\Gray_TestGrade2\obj\Release\Gray_TestGrade2.Form1.resources
+D:\GitHub\gray_prog1_proj\Gray_TestGrade2\Gray_TestGrade2\obj\Release\Gray_TestGrade2.Resources.resources
+D:\GitHub\gray_prog1_proj\Gray_TestGrade2\Gray_TestGrade2\obj\Release\Gray_TestGrade2.vbproj.GenerateResource.Cache
+D:\GitHub\gray_prog1_proj\Gray_TestGrade2\Gray_TestGrade2\obj\Release\Gray_TestGrade2.exe
+D:\GitHub\gray_prog1_proj\Gray_TestGrade2\Gray_TestGrade2\obj\Release\Gray_TestGrade2.xml
+D:\GitHub\gray_prog1_proj\Gray_TestGrade2\Gray_TestGrade2\obj\Release\Gray_TestGrade2.pdb
