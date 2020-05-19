@@ -1,4 +1,4 @@
 programming todo ======================
-Daily Horoscope w/Lucky Number		WIP
+Daily Horoscope w/Lucky Number		DONE
 Test Grade 2; My Select Case		DONE
 Trivia Questions					DONE
