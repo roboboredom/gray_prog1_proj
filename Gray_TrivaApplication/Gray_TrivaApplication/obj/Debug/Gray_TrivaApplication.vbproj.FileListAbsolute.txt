@@ -1,0 +1,10 @@
+D:\GitHub\gray_prog1_proj\Gray_TrivaApplication\Gray_TrivaApplication\bin\Debug\Gray_TrivaApplication.exe.config
+D:\GitHub\gray_prog1_proj\Gray_TrivaApplication\Gray_TrivaApplication\bin\Debug\Gray_TrivaApplication.exe
+D:\GitHub\gray_prog1_proj\Gray_TrivaApplication\Gray_TrivaApplication\bin\Debug\Gray_TrivaApplication.pdb
+D:\GitHub\gray_prog1_proj\Gray_TrivaApplication\Gray_TrivaApplication\bin\Debug\Gray_TrivaApplication.xml
+D:\GitHub\gray_prog1_proj\Gray_TrivaApplication\Gray_TrivaApplication\obj\Debug\Gray_TrivaApplication.Form1.resources
+D:\GitHub\gray_prog1_proj\Gray_TrivaApplication\Gray_TrivaApplication\obj\Debug\Gray_TrivaApplication.Resources.resources
+D:\GitHub\gray_prog1_proj\Gray_TrivaApplication\Gray_TrivaApplication\obj\Debug\Gray_TrivaApplication.vbproj.GenerateResource.Cache
+D:\GitHub\gray_prog1_proj\Gray_TrivaApplication\Gray_TrivaApplication\obj\Debug\Gray_TrivaApplication.exe
+D:\GitHub\gray_prog1_proj\Gray_TrivaApplication\Gray_TrivaApplication\obj\Debug\Gray_TrivaApplication.xml
+D:\GitHub\gray_prog1_proj\Gray_TrivaApplication\Gray_TrivaApplication\obj\Debug\Gray_TrivaApplication.pdb
